@@ -32,6 +32,10 @@ readmission rates. The question for this analysis is:
 
 ### Table of Contents
 1.  License --- GNU Affero General Public License v3.0. 
+2.  README.md --- this readme.
+3.  Time Series Modeling.pdf --- written analysis.
+4.  Time-series-modeling-jupyternotebook-pdf.pdf --- fully executed jupyternotebook for this analysis.
+5.  Time-series-modeling-jupyternotebook.ipynb --- .ipynb format copy of notebook.
 
 ### Tools Used
 1.  Python
