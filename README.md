@@ -1,8 +1,6 @@
-[eric-yarger.com](http://www.eric-yarger.com)
-
 # time-series-modeling
 ### Time Series Modeling with ARIMA
-### Using JupyterLab, Python, and a myriad of functions and tools
+### Using JupyterLab and Python
 
 ### Abstract
 Time series analysis is a statistical tool used to analyze past data within a certain timeframe with the
@@ -11,7 +9,7 @@ revenue from the first two years of operation, to be used to look for patterns i
 patterns discovered in the data have the potential to help our organization better control and manage
 readmission rates. The question for this analysis is:
 
-### 'Using Time Series Analysis, can a model be creatd that can be used to predict future revenues, which can be used by our company to better address readmission rates?'
+### 'Using Time Series Analysis, can a model be created that can be used to predict future revenues, which can be used by our company to better address readmission rates?'
 
 ### Process
 1.  The data .csv file is loaded into a JupyterNotebook.
